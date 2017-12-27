@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/Action1" android:title="Action1"/>
+    <item android:id="@+id/Action2" android:title="Action2"/>
+    <item android:id="@+id/Action3" android:title="Action3"/>
+</menu>
+
+    <!--<menu>
+    Defines a Menu, which is a container for menu items. A <menu> element must be the root node for the file and can hold one or more <item> and <group> elements.
+        <item>
+            Creates a MenuItem, which represents a single item in a menu. This element may contain a nested <menu> element in order to create a submenu.
+    -->
